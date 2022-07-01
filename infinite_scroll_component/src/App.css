@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.list-item {
+  padding: 1em;
+  margin: 1em;
+  background-color: #e7e7e7;
+}
